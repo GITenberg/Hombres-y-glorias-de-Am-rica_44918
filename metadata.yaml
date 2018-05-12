@@ -1,0 +1,46 @@
+_repo: Hombres-y-glorias-de-Am-rica_44918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44918-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Piñeyro, Enrique
+    aliases:
+    - Barry, Enrique Jose Nemesio Pineyro y
+    - Barry, Enrique José Nemesio Piñeyro y
+    - Barri, Enrique Piñeyro y
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '42990'
+    url: http://www.gutenberg.org/2009/agents/42990
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44918'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Bello, Andrés, 1781-1865'
+- !lcsh 'Vera y Figueroa, Juan Antonio de, conde de la Roca, 1588-1658. Centón epistolario'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'Heredia, José María, 1803-1839'
+- !lcsh 'Motley, John Lothrop, 1814-1877'
+- !lcsh 'Mitre, Bartolomé, 1821-1906. Historia de San Martín y de la emancipación
+  sudamericana'
+- !lcsh 'Luz y Caballero, José de la, 1800-1862'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'Anghiera, Pietro Martire d'', 1457-1526'
+tableOfContents: 'El conflicto entre la esclavitud y la libertad en los Estados Unidos
+  de 1850 á 1861 -- José de la Luz y Caballero -- La vida de San Martín, por Mitre
+  -- J.-L. Motley y su Historia de la guerra de los Países Bajos contra España --
+  Andrés Bello -- Un "reporter" de cosas de América en el siglo XV: Pedro Mártir de
+  Anglería -- José María Heredia en la Antología de poetas hispano-americanos de la
+  Real academia española -- Abraham Lincoln -- El "Centón epistolario" y la crítica
+  americana.'
+title: Hombres y glorias de América
+url: http://www.gutenberg.org/ebooks/44918
